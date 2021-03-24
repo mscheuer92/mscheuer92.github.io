@@ -9,7 +9,7 @@ In the terminal, type<br>
 `ssh-keygen -b 2048 -t rsa` <br>
 The following prompts will follow: <br>
 `Enter file in which to save the key (/home/user1/sshfolder/id_rsa): `  if location is correct, press enter.<br>
-`Enter passphrase (empty for no passphrase):` Not required, but if it is, remember it forever.
+`Enter passphrase (empty for no passphrase):` Not required, but if it is, remember it forever.<br>
 `Enter same passphrase again: `<br>
 ` Your identification has been saved in /home/user1/sshfolder/id_rsa.`<br>
 `Your public key has been saved in /home/user1/sshfolder/id_rsa.pub.` <br>
