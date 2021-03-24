@@ -1,4 +1,5 @@
 Welcome to my page!<br>
+# SSH Key Generation
 First, let's start off by setting up an ssh connection between Eclipse and GitHub.
 (This is important to do so we can make commits!)
 
