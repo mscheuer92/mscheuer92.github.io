@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+##Welcome to my page!
 
-Setting up an ssh connection in Eclipse.
+First, let's start off by going over how to setting up an ssh connection in Eclipse.
+This is important to do so we can make commits!
 
 You can save the ssh-keys in any folder on your computer.
 
