@@ -1,4 +1,4 @@
-##Welcome to my page!
+#Welcome to my page!
 
 First, let's start off by going over how to setting up an ssh connection in Eclipse.
 This is important to do so we can make commits!
@@ -12,6 +12,8 @@ The following prompts will follow: <br>
 `Enter passphrase (empty for no passphrase):` Not required, but if it is, remember it forever.
 
  Congrats! You have just generated a private and a public(.pub) key!
+
+
 
 
 
