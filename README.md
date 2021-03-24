@@ -6,7 +6,7 @@ First, let's start off by setting up an ssh connection between Eclipse and GitHu
 You can save the ssh-keys in any folder on your computer.
 
 In the terminal, type<br>
-`ssh-keygen -b 2048 -t rsa` <br>
+`ssh-keygen -b 2048 -t rsa` <br><br>
 The following prompts will follow: <br>
 `Enter file in which to save the key (/home/user1/sshfolder/id_rsa): `  if location is correct, press enter.<br>
 `Enter passphrase (empty for no passphrase):` Not required, but if it is, remember it forever.<br>
