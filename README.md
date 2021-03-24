@@ -11,7 +11,7 @@ The following prompts will follow: <br>
 `Enter file in which to save the key (/home/user1/sshfolder/id_rsa): `  if location is correct, press enter.<br>
 `Enter passphrase (empty for no passphrase):` Not required, but if it is, remember it forever.<br>
 `Enter same passphrase again: `<br>
-` Your identification has been saved in /home/user1/sshfolder/id_rsa.`<br>
+`Your identification has been saved in /home/user1/sshfolder/id_rsa.`<br>
 `Your public key has been saved in /home/user1/sshfolder/id_rsa.pub.` <br>
 
 And then you'll be given a random art image. I couldn't past it here because it wasn't compatible with this format and it looked very...strange...
