@@ -1,5 +1,7 @@
-<center>Welcome to my Page! <br>
-  My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br> </center>
+<center>Welcome to my page! <br><br>
+  My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br><br>
+  Let's get started!</center>
+                                                                                                                          
  
  
  
