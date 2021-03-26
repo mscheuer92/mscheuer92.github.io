@@ -1,7 +1,7 @@
 <center>Welcome to my page!</center><br>
 
-<center>My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br>
-<b>Let's get started!</center></b><br>
+<center>My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br></center>
+<b><center>Let's get started!</b><br></center>
 
 # SSH Key Generation
 First, let's start off by setting up an ssh connection between Eclipse and GitHub.
