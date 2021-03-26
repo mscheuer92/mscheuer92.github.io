@@ -1,6 +1,6 @@
-<center><size = 9> Welcome to my page!</size><br>
+<center>Welcome to my page!</center><br>
 
-My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br>
+<center>My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br>
 <b>Let's get started!</center></b><br>
 
 # SSH Key Generation
