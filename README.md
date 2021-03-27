@@ -1,5 +1,5 @@
 <center>Welcome!<br><br>
-  My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments in between Eclipse and Github in a step by step manner.<br><br>
+  My name is Michelle Scheuer and I created this page specifically to help beginners easily set up a work environments in between Eclipse and Github.<br><br>
   <b>Let's get started!</b></center><br><br>
        
 
