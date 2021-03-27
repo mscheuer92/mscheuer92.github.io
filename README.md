@@ -1,13 +1,7 @@
 <center>Welcome!<br><br>
   My name is Michelle Scheuer and I created this page specifically to help beginners set up their work environments.<br><br>
   <b>Let's get started!</b></center><br><br>
-                                                                                                                          
- 
- 
- 
- 
- 
- 
+       
 
 # SSH Key Generation
 First, let's start off by setting up an ssh connection between Eclipse and GitHub.
@@ -30,8 +24,8 @@ And then you'll be given a random art image. I couldn't past it here because it 
 <center> Congrats! You have just generated a private and a public(.pub) key!</center> <br><br>
 
 # Create A Repository in GitHub
-In order to push projects from Eclipse, you need to create a repository to store them in inside of Github!<br>
-In order to do so, click on the arrow next to your profile picture and select "Your Repositories" <br>
+In order to push projects from Eclipse, you need to create a repository to store them in inside of Github!
+To do so, click on the arrow next to your profile picture and select "Your Repositories".
 There's a green icon that says "New"...click that, and follow the instructions, and you're all set!<br><br>
 
 # Adding Your Public Key to Github
@@ -41,9 +35,9 @@ There's a green icon that says "New"...click that, and follow the instructions, 
 4.) Click on "Add New SSH Key". Give it a title, and then past your .pub ssh key in the "Key" text and click "Add SSH Key" <br>
 5.) In your repository, click the button that says "Code", and select SSH. Copy the "github@github..." address<br><br>
 
-#Setting Up Eclipse
+# Setting Up Eclipse
 Now that we've taken care of GitHub, lets finish this process with setting up Eclipse.<br>
-1.) Fire up Eclipse, and open your workspace. At this point, it's not <i>that important</i> to have a project open.
+1.) Fire up Eclipse, and open your workspace. At this point, it's not <i>that important</i> to have a project open.<br>
 2.) 
 
 
