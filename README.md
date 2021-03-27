@@ -23,7 +23,7 @@ And then you'll be given a random art image. I couldn't past it here because it 
 
 <center> Congrats! You have just generated a private and a public(.pub) key!</center> <br><br>
 
-# Create A Repository in GitHub
+# Create a Repository in GitHub
 In order to push projects from Eclipse, you need to create a repository to store them in inside of Github!
 To do so, click on the arrow next to your profile picture and select "Your Repositories".
 There's a green icon that says "New"...click that, and follow the instructions, and you're all set!<br><br>
