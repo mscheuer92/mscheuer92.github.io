@@ -1,1 +1,1 @@
-[Click to view professional website](https://portfolio.github.io)
+[Click to view professional website](https://Portfolio.github.io)
